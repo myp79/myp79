@@ -13,9 +13,13 @@ About me:
 
 
 <h3 align="left">Status:</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=myp79&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myp79&theme=radical&hide_border=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=myp79&layout=compact&theme=radical&hide_border=true" />
-</a>
-
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img align="left" src="https://github-readme-stats.vercel.app/api?username=myp79&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true" />
+        </td>
+        <td>
+            <img align="lect" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myp79&&layout=compact&theme=algolia&hide_border=true" />
+        </td>
+    </tr>
+</table>
