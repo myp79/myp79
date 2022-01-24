@@ -13,7 +13,7 @@ About me:
 
 
 <h3 align="left">Status:</h3>
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
     <tr>
         <td align="center">
             <img  src="https://github-readme-stats.vercel.app/api?username=myp79&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true" />
