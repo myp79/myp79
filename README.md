@@ -22,9 +22,4 @@ About me:
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myp79&layout=compact&theme=algolia&hide_border=true" />
         </td>
     </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=myp79&layout=compact&theme=algolia&hide_border=true" />
-        </td>
-    </tr>
 </table>
