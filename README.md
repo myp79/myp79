@@ -4,6 +4,21 @@
 I'm currently studying computer engineering at Shahid Chamran University.</p>
 
 
+```python
+from Earth import Human
+
+
+class Me(Human):
+    full_name = 'Mohammad YousefiPour'
+    age = 21
+    education = 'CE student at Shahid Chamran University'
+
+    programming_langs = ['Python', 'C++', 'Java']
+    framework = ['Django']
+
+    intrested_in = ['AI', 'Back-end', 'Front-end', 'Teaching', 'Video Editing']
+
+```
 About me:
 
 - 🔭 I’m currently working on some Python project.
