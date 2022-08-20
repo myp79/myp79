@@ -16,7 +16,7 @@ class Me(Human):
     programming_langs = ['Python', 'C++', 'Java']
     framework = ['Django']
 
-    intrested_in = ['AI', 'Back-end', 'Front-end', 'Teaching', 'Video Editing']
+    intrested_in = ['AI','ML','Data Science', 'Back-end', 'Front-end', 'Teaching', 'Video Editing']
 
 ```
 About me:
