@@ -10,7 +10,7 @@ from Earth import Human
 
 class Me(Human):
     full_name = 'Mohammad YousefiPour'
-    age = 21
+    age = 22
     education = 'CE student at Shahid Chamran University'
 
     programming_langs = ['Python', 'C++', 'Java']
