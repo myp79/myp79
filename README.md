@@ -14,15 +14,15 @@ class Me(Human):
     education = 'MEng student of Artificial Intelligence | Shahid Chamran University'
 
     programming_langs = ['Python', 'C++', 'Java']
-    framework = ['Django']
+    framework = ['Django','Pytorch (Learning)']
 
     intrested_in = ['AI','ML','Data Science', 'Back-end', 'Front-end', 'Teaching', 'Video Editing']
 
 ```
 About me:
 
-- 🔭 I’m currently working on some Python project.
-- 🌱 I’m currently learning Django and Python.
+- 🔭 I’m currently working on some Python projects.
+- 🌱 I’m currently learning Django, Python, Torch .
 - 💬 Ask me about Python and C++
 - 📫 Contant with me: [Telegram](https://telegram.me/MoYousefiPour) and [Email](mailto:moyousefipour79@gmail.com?subject=Help)
 
