@@ -11,7 +11,7 @@ from Earth import Human
 class Me(Human):
     full_name = 'Mohammad YousefiPour'
     age = 22
-    education = 'MEng student of Artificial Intelligence | Shahid Chamran University'
+    education = 'MS Student of Artificial Intelligence | Shahid Chamran University'
 
     programming_langs = ['Python', 'C++', 'Java']
     framework = ['Django','Pytorch (Learning)']
