@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad YousefiPour</h1>
 <h3 align="center">Python Developer</h3>
 
-I'm currently studying computer engineering at Shahid Chamran University.</p>
+I'm currently studying Artificial Intelligence at Shahid Chamran University.</p>
 
 
 ```python
