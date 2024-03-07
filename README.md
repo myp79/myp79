@@ -10,13 +10,13 @@ from Earth import Human
 
 class Me(Human):
     full_name = 'Mohammad YousefiPour'
-    age = 22
+    age = 23
     education = 'MS Student of Artificial Intelligence | Shahid Chamran University'
 
-    programming_langs = ['Python', 'C++', 'Java']
-    framework = ['Django','Pytorch (Learning)']
+    programming_langs = ['Python', 'C++']
+    framework = ['Django','Pytorch (Learning)','Tensorflow']
 
-    intrested_in = ['AI','ML','Data Science', 'Back-end', 'Front-end', 'Teaching', 'Video Editing']
+    intrested_in = ['AI','ML','Data Science', 'Back-end', 'Front-end', 'Teaching']
 
 ```
 About me:
